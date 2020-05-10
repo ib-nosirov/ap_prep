@@ -1,0 +1,9 @@
+a) cart A because after the collision it has less speed than before the collision and by conservation of momentum it has to have a greater mass to counteract mass B's speed.
+
+b) the two-cart system would travel at (m_A - m_B) (3) / (m_A + m_B) meters per second to the right because mass A has greater mass and the same speed of 3 m/s so it had greater momentum and is moving to the right.
+
+c) Using Hooke's Law, the student can add the forces (m_A)g and (m_B)g and set them equal to F = -k (-0.038) and solve for k because both of the blocks are acting to compress the spring.
+
+d) the graph would have a collision time less than the 0.02 s shown in the graph because the the higher force constant would lead to a more elastic collision, which takes less time. The velocities after the collision would stay the same because momentum is still conserved in both scenarios.
+
+e) 
